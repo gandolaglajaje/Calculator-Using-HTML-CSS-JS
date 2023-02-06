@@ -2,7 +2,7 @@
 
 ## Goal 
 
-To solve your simple arithmitic problems.
+To solve your simple arithmetic problems.
 
 ## Mechanics 
 
