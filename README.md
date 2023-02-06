@@ -6,7 +6,7 @@ To solve your simple arithmitic problems.
 
 ## Mechanics 
 
-Input your arithmitic problem and click the equal "=" and the answer will reveal. 
+Input your arithmetic problem and click the equal sign "=" to reveal the answer.
 
 ## Screenshots
 
